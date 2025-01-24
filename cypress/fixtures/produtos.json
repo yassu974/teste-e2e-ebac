@@ -1,0 +1,29 @@
+[
+    {
+        "nomeProduto": "Aether Gym Pan",
+        "tamanho": "33",
+        "cor": "Blue",
+        "quantidade": 1
+    },
+
+    {
+        "nomeProduto": "Ajax Full-Zip Sweatshirt",
+        "tamanho": "L",
+        "cor": "Blue",
+        "quantidade": 1
+    },
+
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "S",
+        "cor": "Purple",
+        "quantidade": 1
+    },
+
+    {
+        "nomeProduto": "Atlas Fitness Tank",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": 1
+    }
+]
